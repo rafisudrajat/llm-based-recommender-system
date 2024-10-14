@@ -8,6 +8,9 @@ In this project I developed 2 main features using AI:
 
 For details about background and technical explanation about this project, please see the [project_explanation.pdf](project_explanation.pdf)
 
+The data for this project can be seen in [data.zip](
+https://drive.google.com/file/d/1PmycGVKWtlEwHMZtXHCqSOgwCXPNFhJh/view?usp=sharing)
+
 ## How to run
 
 ```python
